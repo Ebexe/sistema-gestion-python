@@ -1,0 +1,1001 @@
+Edad,Genero,Id_Trabajo,Tipo_Vivienda,Cta_Ahorro,Cta_Corriente,Monto_Credito,Plazo_Meses,Propósito,Score,Resultado_Riesgo
+67,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Poco,1169,6,Electrodomésticos,90,Normal
+22,Femenino,Empleado Dependiente,Propia,Poco,Moderado,5951,48,Electrodomésticos,80,Deficiente
+49,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,2096,12,Educación,90,Normal
+45,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,7882,42,Muebles/Equip.,80,Deficiente
+53,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,4870,24,Vehículo,80,Deficiente
+35,Masculino,Operativo/Técnico,Cedida/Gratis,Sin Cuenta,Sin Cuenta,9055,36,Educación,70,Deficiente
+53,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,2835,24,Muebles/Equip.,100,Normal
+35,Masculino,Independiente/Gerencia,Alquiler,Poco,Moderado,6948,36,Vehículo,80,Deficiente
+61,Masculino,Operativo/Técnico,Propia,Rico,Sin Cuenta,3059,12,Electrodomésticos,80,Deficiente
+28,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,5234,30,Vehículo,100,Normal
+25,Femenino,Empleado Dependiente,Alquiler,Poco,Moderado,1295,12,Vehículo,80,Deficiente
+24,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,4308,48,Negocios,70,Deficiente
+22,Femenino,Empleado Dependiente,Propia,Poco,Moderado,1567,12,Electrodomésticos,80,Deficiente
+60,Masculino,Operativo/Técnico,Propia,Poco,Poco,1199,24,Vehículo,90,Normal
+28,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1403,15,Vehículo,80,Deficiente
+32,Femenino,Operativo/Técnico,Propia,Moderado,Poco,1282,24,Electrodomésticos,80,Deficiente
+53,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2424,24,Electrodomésticos,90,Normal
+25,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Poco,8072,30,Negocios,100,Normal
+44,Femenino,Independiente/Gerencia,Cedida/Gratis,Poco,Moderado,12579,24,Vehículo,80,Deficiente
+31,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,3430,24,Electrodomésticos,90,Normal
+48,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2134,9,Vehículo,100,Normal
+44,Masculino,Empleado Dependiente,Alquiler,Bastante rico,Poco,2647,6,Electrodomésticos,70,Deficiente
+48,Masculino,Operativo/Técnico,Alquiler,Poco,Poco,2241,10,Vehículo,70,Deficiente
+44,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,1804,12,Vehículo,100,Normal
+26,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2069,10,Muebles/Equip.,100,Normal
+36,Masculino,Operativo/Técnico,Propia,Poco,Poco,1374,6,Muebles/Equip.,90,Normal
+39,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,426,6,Electrodomésticos,80,Deficiente
+42,Femenino,Empleado Dependiente,Alquiler,Rico,Rico,409,12,Electrodomésticos,70,Deficiente
+34,Masculino,Empleado Dependiente,Propia,Poco,Moderado,2415,7,Electrodomésticos,90,Normal
+63,Masculino,Empleado Dependiente,Propia,Poco,Poco,6836,60,Negocios,100,Normal
+36,Masculino,Empleado Dependiente,Propia,Rico,Moderado,1913,18,Negocios,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Poco,Poco,4020,24,Muebles/Equip.,100,Normal
+30,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,5866,18,Vehículo,100,Normal
+57,Masculino,Operativo/Técnico,Alquiler,Sin Cuenta,Sin Cuenta,1264,12,Negocios,70,Deficiente
+33,Femenino,Independiente/Gerencia,Propia,Poco,Rico,1474,12,Muebles/Equip.,100,Normal
+25,Masculino,Operativo/Técnico,Propia,Poco,Moderado,4746,45,Electrodomésticos,80,Deficiente
+31,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,6110,48,Educación,80,Deficiente
+37,Masculino,Empleado Dependiente,Propia,Poco,Rico,2100,18,Electrodomésticos,90,Normal
+37,Masculino,Empleado Dependiente,Propia,Poco,Rico,1225,10,Otros/Varios,90,Normal
+24,Masculino,Empleado Dependiente,Propia,Poco,Moderado,458,9,Electrodomésticos,80,Deficiente
+30,Masculino,Independiente/Gerencia,Propia,Bastante rico,Sin Cuenta,2333,30,Electrodomésticos,90,Normal
+26,Masculino,Empleado Dependiente,Propia,Bastante rico,Moderado,1158,12,Electrodomésticos,90,Normal
+44,Masculino,Operativo/Técnico,Propia,Poco,Moderado,6204,18,Reparaciones,90,Normal
+24,Masculino,Empleado Dependiente,Alquiler,Moderado,Poco,6187,30,Vehículo,70,Deficiente
+58,Femenino,Operativo/Técnico,Cedida/Gratis,Poco,Poco,6143,48,Vehículo,70,Deficiente
+35,Femenino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,1393,11,Vehículo,100,Normal
+39,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,2299,36,Electrodomésticos,90,Normal
+23,Femenino,Desempleado/eventual,Alquiler,Bastante rico,Poco,1352,6,Vehículo,40,Deficiente
+39,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,7228,11,Vehículo,90,Normal
+28,Femenino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,2073,12,Electrodomésticos,90,Normal
+29,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Moderado,2333,24,Muebles/Equip.,90,Normal
+30,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,5965,27,Vehículo,100,Normal
+25,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1262,12,Electrodomésticos,90,Normal
+31,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3378,18,Vehículo,100,Normal
+57,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Moderado,2225,36,Vehículo,80,Deficiente
+26,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Sin Cuenta,783,6,Vehículo,90,Normal
+52,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Moderado,6468,12,Electrodomésticos,90,Normal
+31,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,9566,36,Electrodomésticos,90,Normal
+23,Femenino,Independiente/Gerencia,Propia,Poco,Rico,1961,18,Vehículo,90,Normal
+23,Femenino,Operativo/Técnico,Alquiler,Poco,Poco,6229,36,Muebles/Equip.,60,Deficiente
+27,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1391,9,Negocios,100,Normal
+50,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,1537,15,Electrodomésticos,90,Normal
+61,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Moderado,1953,36,Negocios,80,Deficiente
+25,Masculino,Empleado Dependiente,Propia,Poco,Moderado,14421,48,Negocios,100,Normal
+26,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3181,24,Electrodomésticos,90,Normal
+48,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,5190,27,Reparaciones,100,Normal
+29,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2171,12,Electrodomésticos,90,Normal
+22,Masculino,Empleado Dependiente,Propia,Rico,Moderado,1007,12,Vehículo,90,Normal
+37,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,1819,36,Educación,80,Deficiente
+25,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2394,36,Electrodomésticos,90,Normal
+30,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,8133,36,Vehículo,100,Normal
+46,Masculino,Operativo/Técnico,Alquiler,Sin Cuenta,Sin Cuenta,730,7,Electrodomésticos,60,Deficiente
+51,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,1164,8,Otros/Varios,70,Deficiente
+41,Femenino,Operativo/Técnico,Propia,Poco,Moderado,5954,42,Negocios,90,Normal
+40,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Poco,1977,36,Educación,100,Normal
+66,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,1526,12,Vehículo,80,Deficiente
+34,Masculino,Empleado Dependiente,Propia,Poco,Poco,3965,42,Electrodomésticos,90,Normal
+51,Masculino,Empleado Dependiente,Propia,Poco,Moderado,4771,11,Electrodomésticos,90,Normal
+39,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Sin Cuenta,9436,54,Vehículo,90,Normal
+22,Masculino,Empleado Dependiente,Propia,Poco,Moderado,3832,30,Muebles/Equip.,90,Normal
+44,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,5943,24,Electrodomésticos,90,Normal
+47,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,1213,15,Electrodomésticos,90,Normal
+24,Femenino,Operativo/Técnico,Alquiler,Moderado,Sin Cuenta,1568,18,Negocios,60,Deficiente
+58,Femenino,Operativo/Técnico,Propia,Poco,Poco,1755,24,Otros/Varios,80,Deficiente
+52,Masculino,Operativo/Técnico,Propia,Poco,Poco,2315,10,Electrodomésticos,80,Deficiente
+29,Femenino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,1412,12,Negocios,100,Normal
+27,Femenino,Empleado Dependiente,Propia,Poco,Moderado,1295,18,Muebles/Equip.,100,Normal
+47,Masculino,Empleado Dependiente,Cedida/Gratis,Moderado,Moderado,12612,36,Educación,80,Deficiente
+30,Masculino,Independiente/Gerencia,Propia,Moderado,Poco,2249,18,Vehículo,100,Normal
+28,Masculino,Empleado Dependiente,Propia,Poco,Poco,1108,12,Reparaciones,100,Normal
+56,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,618,12,Electrodomésticos,90,Normal
+54,Masculino,Empleado Dependiente,Propia,Poco,Poco,1409,12,Vehículo,100,Normal
+33,Femenino,Operativo/Técnico,Propia,Sin Cuenta,Sin Cuenta,797,12,Electrodomésticos,80,Deficiente
+20,Masculino,Empleado Dependiente,Alquiler,Sin Cuenta,Rico,3617,24,Muebles/Equip.,70,Deficiente
+54,Masculino,Empleado Dependiente,Propia,Rico,Moderado,1318,12,Vehículo,100,Normal
+58,Masculino,Empleado Dependiente,Alquiler,Poco,Moderado,15945,54,Negocios,80,Deficiente
+61,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2012,12,Educación,100,Normal
+34,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,2622,18,Negocios,100,Normal
+36,Masculino,Empleado Dependiente,Propia,Poco,Moderado,2337,36,Electrodomésticos,90,Normal
+36,Masculino,Independiente/Gerencia,Alquiler,Sin Cuenta,Moderado,7057,20,Vehículo,80,Deficiente
+41,Masculino,Operativo/Técnico,Alquiler,Moderado,Sin Cuenta,1469,24,Vehículo,70,Deficiente
+24,Masculino,Empleado Dependiente,Alquiler,Poco,Moderado,2323,36,Electrodomésticos,60,Deficiente
+24,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,932,6,Electrodomésticos,80,Deficiente
+35,Masculino,Empleado Dependiente,Alquiler,Poco,Moderado,1919,9,Muebles/Equip.,80,Deficiente
+26,Masculino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,2445,12,Vehículo,80,Deficiente
+39,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,11938,24,Otros/Varios,90,Normal
+39,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,6458,18,Vehículo,100,Normal
+32,Masculino,Empleado Dependiente,Propia,Poco,Moderado,6078,12,Vehículo,100,Normal
+30,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Poco,7721,24,Muebles/Equip.,100,Normal
+35,Masculino,Empleado Dependiente,Propia,Bastante rico,Moderado,1410,14,Negocios,100,Normal
+31,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,1449,6,Negocios,100,Normal
+23,Femenino,Empleado Dependiente,Alquiler,Poco,Rico,392,15,Educación,70,Deficiente
+28,Masculino,Operativo/Técnico,Alquiler,Poco,Moderado,6260,18,Vehículo,70,Deficiente
+25,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,7855,36,Vehículo,100,Normal
+35,Masculino,Empleado Dependiente,Propia,Bastante rico,Poco,1680,12,Electrodomésticos,90,Normal
+47,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3578,48,Electrodomésticos,90,Normal
+30,Femenino,Independiente/Gerencia,Propia,Sin Cuenta,Poco,7174,42,Electrodomésticos,90,Normal
+27,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Poco,2132,10,Muebles/Equip.,80,Deficiente
+23,Femenino,Empleado Dependiente,Propia,Bastante rico,Poco,4281,33,Muebles/Equip.,90,Normal
+36,Masculino,Independiente/Gerencia,Propia,Bastante rico,Moderado,2366,12,Vehículo,100,Normal
+25,Femenino,Empleado Dependiente,Propia,Poco,Poco,1835,21,Electrodomésticos,90,Normal
+41,Femenino,Independiente/Gerencia,Alquiler,Poco,Sin Cuenta,3868,24,Vehículo,80,Deficiente
+24,Masculino,Operativo/Técnico,Alquiler,Poco,Sin Cuenta,1768,12,Muebles/Equip.,60,Deficiente
+63,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Rico,781,10,Vehículo,80,Deficiente
+27,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Moderado,1924,18,Muebles/Equip.,80,Deficiente
+30,Masculino,Empleado Dependiente,Propia,Poco,Poco,2121,12,Vehículo,100,Normal
+40,Masculino,Operativo/Técnico,Propia,Poco,Poco,701,12,Electrodomésticos,80,Deficiente
+30,Masculino,Empleado Dependiente,Propia,Poco,Moderado,639,12,Reparaciones,100,Normal
+34,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,1860,12,Vehículo,100,Normal
+29,Femenino,Empleado Dependiente,Propia,Poco,Poco,3499,12,Vehículo,100,Normal
+24,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,8487,48,Vehículo,90,Normal
+29,Masculino,Empleado Dependiente,Propia,Poco,Poco,6887,36,Educación,100,Normal
+27,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,2708,15,Muebles/Equip.,90,Normal
+47,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,1984,18,Muebles/Equip.,80,Deficiente
+21,Femenino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,10144,60,Electrodomésticos,80,Deficiente
+38,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,1240,12,Electrodomésticos,90,Normal
+27,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,8613,27,Vehículo,100,Normal
+66,Masculino,Operativo/Técnico,Propia,Bastante rico,Moderado,766,12,Electrodomésticos,80,Deficiente
+35,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,2728,15,Electrodomésticos,90,Normal
+44,Femenino,Operativo/Técnico,Alquiler,Poco,Rico,1881,12,Electrodomésticos,60,Deficiente
+27,Masculino,Desempleado/eventual,Propia,Rico,Rico,709,6,Vehículo,70,Deficiente
+30,Femenino,Independiente/Gerencia,Propia,Poco,Moderado,4795,36,Electrodomésticos,90,Normal
+27,Masculino,Independiente/Gerencia,Propia,Poco,Poco,3416,27,Electrodomésticos,90,Normal
+22,Masculino,Empleado Dependiente,Propia,Poco,Poco,2462,18,Muebles/Equip.,90,Normal
+23,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2288,21,Muebles/Equip.,90,Normal
+30,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,3566,48,Negocios,100,Normal
+39,Femenino,Empleado Dependiente,Propia,Poco,Poco,860,6,Vehículo,100,Normal
+51,Femenino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,682,12,Vehículo,100,Normal
+28,Masculino,Empleado Dependiente,Propia,Poco,Poco,5371,36,Muebles/Equip.,100,Normal
+46,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,1582,18,Electrodomésticos,90,Normal
+42,Masculino,Empleado Dependiente,Cedida/Gratis,Moderado,Sin Cuenta,1346,6,Electrodomésticos,70,Deficiente
+38,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1924,10,Electrodomésticos,90,Normal
+24,Masculino,Empleado Dependiente,Propia,Poco,Rico,5848,36,Electrodomésticos,80,Deficiente
+29,Femenino,Empleado Dependiente,Alquiler,Rico,Moderado,7758,24,Vehículo,80,Deficiente
+36,Masculino,Independiente/Gerencia,Alquiler,Moderado,Moderado,6967,24,Negocios,80,Deficiente
+20,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1282,12,Muebles/Equip.,70,Deficiente
+48,Masculino,Empleado Dependiente,Propia,Moderado,Poco,1288,9,Reparaciones,100,Normal
+45,Masculino,Operativo/Técnico,Propia,Poco,Poco,339,12,Educación,90,Normal
+38,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,3512,24,Vehículo,100,Normal
+34,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Sin Cuenta,1898,6,Electrodomésticos,80,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,2872,24,Electrodomésticos,90,Normal
+30,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1055,18,Vehículo,100,Normal
+36,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,1262,15,Otros/Varios,90,Normal
+70,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Moderado,7308,10,Vehículo,80,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,909,36,Vehículo,100,Normal
+32,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,2978,6,Muebles/Equip.,100,Normal
+33,Femenino,Empleado Dependiente,Propia,Poco,Poco,1131,18,Muebles/Equip.,100,Normal
+20,Femenino,Empleado Dependiente,Propia,Rico,Moderado,1577,11,Muebles/Equip.,90,Normal
+25,Femenino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,3972,24,Muebles/Equip.,80,Deficiente
+31,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1935,24,Negocios,100,Normal
+33,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,950,15,Vehículo,80,Deficiente
+26,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,763,12,Muebles/Equip.,100,Normal
+34,Femenino,Independiente/Gerencia,Propia,Poco,Moderado,2064,24,Muebles/Equip.,100,Normal
+33,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1414,8,Electrodomésticos,90,Normal
+26,Masculino,Empleado Dependiente,Propia,Poco,Poco,3414,21,Educación,100,Normal
+53,Femenino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,7485,30,Vehículo,100,Normal
+42,Masculino,Empleado Dependiente,Propia,Poco,Poco,2577,12,Muebles/Equip.,100,Normal
+52,Masculino,Empleado Dependiente,Propia,Bastante rico,Poco,338,6,Electrodomésticos,90,Normal
+31,Masculino,Independiente/Gerencia,Alquiler,Poco,Sin Cuenta,1963,12,Electrodomésticos,70,Deficiente
+65,Masculino,Empleado Dependiente,Propia,Poco,Poco,571,21,Vehículo,100,Normal
+28,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,9572,36,Negocios,100,Normal
+30,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,4455,36,Negocios,100,Normal
+40,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Poco,1647,21,Vehículo,90,Normal
+50,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,3777,24,Muebles/Equip.,100,Normal
+36,Masculino,Empleado Dependiente,Propia,Poco,Moderado,884,18,Vehículo,100,Normal
+31,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1360,15,Electrodomésticos,90,Normal
+74,Femenino,Independiente/Gerencia,Cedida/Gratis,Poco,Moderado,5129,9,Vehículo,80,Deficiente
+68,Masculino,Desempleado/eventual,Cedida/Gratis,Poco,Moderado,1175,16,Vehículo,50,Deficiente
+20,Masculino,Empleado Dependiente,Propia,Moderado,Poco,674,12,Electrodomésticos,80,Deficiente
+33,Femenino,Empleado Dependiente,Propia,Poco,Moderado,3244,18,Muebles/Equip.,100,Normal
+54,Masculino,Independiente/Gerencia,Propia,Rico,Sin Cuenta,4591,24,Negocios,100,Normal
+34,Masculino,Operativo/Técnico,Cedida/Gratis,Moderado,Moderado,3844,48,Negocios,70,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Poco,Moderado,3915,27,Negocios,100,Normal
+29,Masculino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,2108,6,Electrodomésticos,70,Deficiente
+21,Masculino,Empleado Dependiente,Alquiler,Moderado,Moderado,3031,45,Electrodomésticos,60,Deficiente
+34,Femenino,Independiente/Gerencia,Propia,Poco,Moderado,1501,9,Educación,100,Normal
+28,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1382,6,Electrodomésticos,90,Normal
+27,Femenino,Empleado Dependiente,Alquiler,Moderado,Moderado,951,12,Muebles/Equip.,80,Deficiente
+36,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Moderado,2760,24,Vehículo,80,Deficiente
+40,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,4297,18,Muebles/Equip.,100,Normal
+52,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,936,9,Educación,100,Normal
+27,Masculino,Operativo/Técnico,Propia,Poco,Poco,1168,12,Vehículo,90,Normal
+26,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,5117,27,Negocios,100,Normal
+21,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,902,12,Educación,70,Deficiente
+38,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1495,12,Vehículo,90,Normal
+38,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,10623,30,Vehículo,80,Deficiente
+43,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1935,12,Muebles/Equip.,100,Normal
+26,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1424,12,Otros/Varios,90,Normal
+21,Masculino,Operativo/Técnico,Propia,Poco,Poco,6568,24,Negocios,80,Deficiente
+55,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,1413,12,Vehículo,100,Normal
+33,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3074,9,Electrodomésticos,90,Normal
+45,Femenino,Operativo/Técnico,Propia,Sin Cuenta,Sin Cuenta,3835,36,Electrodomésticos,80,Deficiente
+50,Masculino,Empleado Dependiente,Propia,Poco,Poco,5293,27,Negocios,100,Normal
+66,Masculino,Independiente/Gerencia,Propia,Poco,Rico,1908,30,Negocios,100,Normal
+51,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3342,36,Electrodomésticos,90,Normal
+39,Femenino,Operativo/Técnico,Propia,Sin Cuenta,Moderado,932,6,Educación,90,Normal
+31,Masculino,Empleado Dependiente,Propia,Poco,Poco,3104,18,Negocios,100,Normal
+23,Masculino,Empleado Dependiente,Propia,Poco,Rico,3913,36,Electrodomésticos,80,Deficiente
+24,Masculino,Operativo/Técnico,Alquiler,Poco,Poco,3021,24,Muebles/Equip.,60,Deficiente
+64,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1364,10,Vehículo,100,Normal
+26,Masculino,Operativo/Técnico,Propia,Poco,Moderado,625,12,Electrodomésticos,80,Deficiente
+23,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Poco,1200,12,Educación,70,Deficiente
+30,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,707,12,Electrodomésticos,90,Normal
+32,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2978,24,Negocios,100,Normal
+30,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,4657,15,Vehículo,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2613,36,Reparaciones,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Rico,Moderado,10961,48,Electrodomésticos,90,Normal
+53,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,7865,12,Muebles/Equip.,80,Deficiente
+22,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1478,9,Electrodomésticos,80,Deficiente
+22,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,3149,24,Muebles/Equip.,70,Deficiente
+26,Masculino,Empleado Dependiente,Propia,Poco,Rico,4210,36,Electrodomésticos,90,Normal
+51,Masculino,Operativo/Técnico,Cedida/Gratis,Bastante rico,Sin Cuenta,2507,9,Vehículo,70,Deficiente
+35,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,2141,12,Electrodomésticos,90,Normal
+25,Masculino,Operativo/Técnico,Propia,Poco,Moderado,866,18,Electrodomésticos,80,Deficiente
+42,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1544,4,Electrodomésticos,80,Deficiente
+30,Masculino,Independiente/Gerencia,Propia,Poco,Poco,1823,24,Electrodomésticos,90,Normal
+23,Masculino,Desempleado/eventual,Propia,Sin Cuenta,Moderado,14555,6,Vehículo,60,Deficiente
+61,Masculino,Operativo/Técnico,Alquiler,Moderado,Moderado,2767,21,Negocios,70,Deficiente
+35,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1291,12,Electrodomésticos,90,Normal
+39,Masculino,Empleado Dependiente,Propia,Poco,Poco,2522,30,Electrodomésticos,90,Normal
+29,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Poco,915,24,Vehículo,100,Normal
+51,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1595,6,Electrodomésticos,90,Normal
+24,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,4605,48,Vehículo,70,Deficiente
+27,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1185,12,Negocios,100,Normal
+35,Femenino,Operativo/Técnico,Propia,Bastante rico,Sin Cuenta,3447,12,Educación,90,Normal
+25,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1258,24,Negocios,100,Normal
+52,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,717,12,Electrodomésticos,90,Normal
+35,Masculino,Empleado Dependiente,Alquiler,Moderado,Sin Cuenta,1204,6,Vehículo,80,Deficiente
+26,Masculino,Empleado Dependiente,Propia,Poco,Rico,1925,24,Muebles/Equip.,100,Normal
+22,Femenino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,433,18,Electrodomésticos,60,Deficiente
+39,Femenino,Operativo/Técnico,Propia,Rico,Poco,666,6,Vehículo,90,Normal
+46,Femenino,Operativo/Técnico,Propia,Poco,Rico,2251,12,Muebles/Equip.,90,Normal
+24,Femenino,Empleado Dependiente,Propia,Poco,Moderado,2150,30,Vehículo,90,Normal
+35,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,4151,24,Muebles/Equip.,100,Normal
+24,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,2030,9,Muebles/Equip.,90,Normal
+27,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Moderado,7418,60,Electrodomésticos,80,Deficiente
+35,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,2684,24,Electrodomésticos,80,Deficiente
+29,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,2149,12,Electrodomésticos,70,Deficiente
+23,Femenino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,3812,15,Vehículo,90,Normal
+57,Femenino,Operativo/Técnico,Propia,Moderado,Sin Cuenta,1154,11,Electrodomésticos,80,Deficiente
+27,Masculino,Empleado Dependiente,Propia,Poco,Poco,1657,12,Muebles/Equip.,100,Normal
+55,Femenino,Empleado Dependiente,Propia,Poco,Poco,1603,24,Electrodomésticos,90,Normal
+36,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,5302,18,Vehículo,80,Deficiente
+57,Femenino,Operativo/Técnico,Cedida/Gratis,Poco,Sin Cuenta,2748,12,Educación,70,Deficiente
+32,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1231,10,Vehículo,90,Normal
+37,Masculino,Empleado Dependiente,Propia,Poco,Moderado,802,15,Electrodomésticos,90,Normal
+36,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,6304,36,Negocios,100,Normal
+38,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1533,24,Electrodomésticos,90,Normal
+45,Masculino,Independiente/Gerencia,Propia,Poco,Poco,8978,14,Vehículo,100,Normal
+25,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,999,24,Electrodomésticos,90,Normal
+32,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2662,18,Vehículo,100,Normal
+37,Femenino,Empleado Dependiente,Alquiler,Bastante rico,Sin Cuenta,1402,12,Muebles/Equip.,80,Deficiente
+36,Masculino,Independiente/Gerencia,Cedida/Gratis,Sin Cuenta,Moderado,12169,48,Vehículo,80,Deficiente
+28,Masculino,Empleado Dependiente,Propia,Poco,Moderado,3060,48,Electrodomésticos,90,Normal
+34,Masculino,Operativo/Técnico,Propia,Poco,Poco,11998,30,Reparaciones,90,Normal
+32,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2697,9,Electrodomésticos,90,Normal
+26,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2404,18,Electrodomésticos,90,Normal
+49,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Poco,1262,12,Muebles/Equip.,90,Normal
+32,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,4611,6,Muebles/Equip.,100,Normal
+29,Masculino,Independiente/Gerencia,Alquiler,Moderado,Sin Cuenta,1901,24,Electrodomésticos,70,Deficiente
+23,Masculino,Empleado Dependiente,Alquiler,Rico,Sin Cuenta,3368,15,Vehículo,70,Deficiente
+50,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1574,12,Muebles/Equip.,100,Normal
+49,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Rico,1445,18,Electrodomésticos,80,Deficiente
+63,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,1520,15,Muebles/Equip.,100,Normal
+37,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,3878,24,Vehículo,100,Normal
+35,Femenino,Operativo/Técnico,Propia,Poco,Poco,10722,47,Vehículo,90,Normal
+26,Masculino,Empleado Dependiente,Propia,Poco,Poco,4788,48,Vehículo,100,Normal
+31,Masculino,Independiente/Gerencia,Cedida/Gratis,Moderado,Moderado,7582,48,Otros/Varios,70,Deficiente
+49,Femenino,Empleado Dependiente,Propia,Poco,Moderado,1092,12,Electrodomésticos,90,Normal
+48,Masculino,Empleado Dependiente,Propia,Poco,Poco,1024,24,Electrodomésticos,90,Normal
+26,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1076,12,Negocios,100,Normal
+28,Masculino,Independiente/Gerencia,Alquiler,Poco,Moderado,9398,36,Vehículo,80,Deficiente
+44,Femenino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,6419,24,Vehículo,80,Deficiente
+56,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Rico,4796,42,Vehículo,80,Deficiente
+46,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,7629,48,Negocios,100,Normal
+26,Femenino,Empleado Dependiente,Propia,Poco,Moderado,9960,48,Muebles/Equip.,100,Normal
+20,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,4675,12,Vehículo,70,Deficiente
+45,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Sin Cuenta,1287,10,Vehículo,90,Normal
+43,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2515,18,Muebles/Equip.,100,Normal
+32,Masculino,Empleado Dependiente,Propia,Rico,Moderado,2745,21,Muebles/Equip.,100,Normal
+54,Femenino,Desempleado/eventual,Propia,Poco,Sin Cuenta,672,6,Vehículo,70,Deficiente
+42,Femenino,Empleado Dependiente,Propia,Poco,Moderado,3804,36,Electrodomésticos,90,Normal
+37,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Rico,1344,24,Vehículo,90,Normal
+49,Masculino,Empleado Dependiente,Propia,Poco,Poco,1038,10,Vehículo,100,Normal
+44,Masculino,Empleado Dependiente,Cedida/Gratis,Bastante rico,Sin Cuenta,10127,48,Vehículo,80,Deficiente
+33,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,1543,6,Muebles/Equip.,100,Normal
+24,Femenino,Operativo/Técnico,Alquiler,Sin Cuenta,Sin Cuenta,4811,30,Vehículo,60,Deficiente
+33,Masculino,Operativo/Técnico,Propia,Moderado,Poco,727,12,Electrodomésticos,80,Deficiente
+24,Femenino,Empleado Dependiente,Propia,Poco,Moderado,1237,8,Muebles/Equip.,90,Normal
+22,Masculino,Operativo/Técnico,Alquiler,Poco,Moderado,276,9,Vehículo,60,Deficiente
+40,Masculino,Desempleado/eventual,Cedida/Gratis,Sin Cuenta,Moderado,5381,48,Otros/Varios,40,Deficiente
+25,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,5511,24,Muebles/Equip.,100,Normal
+26,Femenino,Empleado Dependiente,Propia,Poco,Rico,3749,24,Muebles/Equip.,100,Normal
+25,Masculino,Operativo/Técnico,Propia,Poco,Moderado,685,12,Vehículo,90,Normal
+29,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Rico,1494,4,Vehículo,90,Normal
+31,Masculino,Empleado Dependiente,Propia,Poco,Poco,2746,36,Muebles/Equip.,100,Normal
+38,Masculino,Operativo/Técnico,Propia,Poco,Poco,708,12,Muebles/Equip.,90,Normal
+48,Femenino,Operativo/Técnico,Propia,Sin Cuenta,Moderado,4351,24,Muebles/Equip.,90,Normal
+32,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,701,12,Educación,100,Normal
+27,Femenino,Operativo/Técnico,Propia,Poco,Poco,3643,15,Muebles/Equip.,90,Normal
+28,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,4249,30,Vehículo,100,Normal
+32,Masculino,Empleado Dependiente,Propia,Poco,Poco,1938,24,Electrodomésticos,90,Normal
+34,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,2910,24,Vehículo,80,Deficiente
+28,Masculino,Empleado Dependiente,Propia,Rico,Poco,2659,18,Muebles/Equip.,100,Normal
+36,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1028,18,Vehículo,100,Normal
+39,Masculino,Operativo/Técnico,Propia,Poco,Poco,3398,8,Vehículo,90,Normal
+49,Masculino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,5801,12,Muebles/Equip.,80,Deficiente
+34,Femenino,Empleado Dependiente,Propia,Rico,Sin Cuenta,1525,24,Vehículo,100,Normal
+31,Masculino,Empleado Dependiente,Propia,Poco,Rico,4473,36,Electrodomésticos,90,Normal
+28,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1068,6,Electrodomésticos,90,Normal
+75,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,6615,24,Vehículo,80,Deficiente
+30,Femenino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,1864,18,Educación,100,Normal
+24,Femenino,Independiente/Gerencia,Propia,Moderado,Moderado,7408,60,Vehículo,90,Normal
+24,Femenino,Operativo/Técnico,Alquiler,Moderado,Sin Cuenta,11590,48,Vehículo,60,Deficiente
+23,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,4110,24,Muebles/Equip.,70,Deficiente
+44,Masculino,Independiente/Gerencia,Alquiler,Poco,Poco,3384,6,Muebles/Equip.,80,Deficiente
+23,Femenino,Operativo/Técnico,Propia,Poco,Moderado,2101,13,Electrodomésticos,70,Deficiente
+24,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Poco,1275,15,Otros/Varios,60,Deficiente
+28,Masculino,Empleado Dependiente,Propia,Poco,Poco,4169,24,Muebles/Equip.,100,Normal
+31,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1521,10,Muebles/Equip.,90,Normal
+24,Femenino,Empleado Dependiente,Cedida/Gratis,Poco,Moderado,5743,24,Educación,70,Deficiente
+26,Femenino,Operativo/Técnico,Alquiler,Poco,Poco,3599,21,Muebles/Equip.,70,Deficiente
+25,Masculino,Empleado Dependiente,Alquiler,Bastante rico,Moderado,3213,18,Electrodomésticos,70,Deficiente
+33,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,4439,18,Negocios,100,Normal
+37,Masculino,Operativo/Técnico,Propia,Poco,Rico,3949,10,Vehículo,90,Normal
+43,Femenino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1459,15,Electrodomésticos,80,Deficiente
+23,Masculino,Empleado Dependiente,Propia,Poco,Moderado,882,13,Electrodomésticos,80,Deficiente
+23,Femenino,Desempleado/eventual,Alquiler,Bastante rico,Moderado,3758,24,Electrodomésticos,30,Deficiente
+34,Masculino,Operativo/Técnico,Propia,Moderado,Sin Cuenta,1743,6,Negocios,90,Normal
+32,Masculino,Empleado Dependiente,Cedida/Gratis,Rico,Moderado,1136,9,Educación,80,Deficiente
+23,Femenino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,1236,9,Otros/Varios,60,Deficiente
+29,Femenino,Empleado Dependiente,Propia,Poco,Moderado,959,9,Muebles/Equip.,100,Normal
+38,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,3229,18,Vehículo,100,Normal
+28,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,6199,12,Electrodomésticos,70,Deficiente
+46,Masculino,Empleado Dependiente,Cedida/Gratis,Bastante rico,Sin Cuenta,727,10,Educación,80,Deficiente
+23,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1246,24,Vehículo,80,Deficiente
+49,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2331,12,Electrodomésticos,90,Normal
+26,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,4463,36,Electrodomésticos,90,Normal
+28,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,776,12,Electrodomésticos,90,Normal
+23,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,2406,30,Muebles/Equip.,70,Deficiente
+61,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Moderado,1239,18,Educación,80,Deficiente
+37,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Rico,3399,12,Electrodomésticos,90,Normal
+36,Femenino,Empleado Dependiente,Propia,Poco,Rico,2247,12,Vehículo,100,Normal
+21,Masculino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,1766,6,Muebles/Equip.,70,Deficiente
+25,Masculino,Desempleado/eventual,Propia,Poco,Poco,2473,18,Muebles/Equip.,70,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1542,12,Negocios,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3850,18,Vehículo,100,Normal
+22,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,3650,18,Muebles/Equip.,70,Deficiente
+42,Masculino,Empleado Dependiente,Propia,Poco,Poco,3446,36,Muebles/Equip.,100,Normal
+40,Femenino,Empleado Dependiente,Alquiler,Poco,Moderado,3001,18,Muebles/Equip.,80,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3079,36,Vehículo,100,Normal
+33,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,6070,18,Electrodomésticos,90,Normal
+23,Femenino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,2146,10,Muebles/Equip.,70,Deficiente
+63,Masculino,Independiente/Gerencia,Cedida/Gratis,Sin Cuenta,Sin Cuenta,13756,60,Vehículo,80,Deficiente
+60,Femenino,Independiente/Gerencia,Cedida/Gratis,Moderado,Moderado,14782,60,Otros/Varios,70,Deficiente
+37,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,7685,48,Negocios,80,Deficiente
+34,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2320,18,Electrodomésticos,90,Normal
+36,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Sin Cuenta,846,7,Electrodomésticos,70,Deficiente
+57,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Moderado,14318,36,Vehículo,80,Deficiente
+52,Femenino,Operativo/Técnico,Propia,Moderado,Sin Cuenta,362,6,Vehículo,90,Normal
+39,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Poco,2212,20,Muebles/Equip.,100,Normal
+38,Femenino,Independiente/Gerencia,Cedida/Gratis,Poco,Moderado,12976,18,Vehículo,80,Deficiente
+25,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,1283,22,Vehículo,80,Deficiente
+26,Masculino,Empleado Dependiente,Propia,Poco,Rico,1330,12,Vehículo,100,Normal
+26,Masculino,Operativo/Técnico,Propia,Moderado,Sin Cuenta,4272,30,Negocios,90,Normal
+25,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2238,18,Electrodomésticos,90,Normal
+21,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,1126,18,Electrodomésticos,60,Deficiente
+40,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,7374,18,Muebles/Equip.,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Bastante rico,Moderado,2326,15,Negocios,100,Normal
+27,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1449,9,Negocios,100,Normal
+30,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,1820,18,Vehículo,100,Normal
+19,Femenino,Operativo/Técnico,Alquiler,Rico,Moderado,983,12,Muebles/Equip.,60,Deficiente
+39,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,3249,36,Vehículo,80,Deficiente
+31,Femenino,Empleado Dependiente,Propia,Poco,Poco,1957,6,Electrodomésticos,90,Normal
+31,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,2406,9,Muebles/Equip.,100,Normal
+32,Masculino,Empleado Dependiente,Alquiler,Moderado,Moderado,11760,39,Educación,80,Deficiente
+55,Femenino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,2578,12,Muebles/Equip.,80,Deficiente
+46,Masculino,Empleado Dependiente,Propia,Poco,Poco,2348,36,Muebles/Equip.,100,Normal
+46,Masculino,Empleado Dependiente,Alquiler,Poco,Moderado,1223,12,Vehículo,80,Deficiente
+43,Femenino,Operativo/Técnico,Propia,Rico,Sin Cuenta,1516,24,Electrodomésticos,80,Deficiente
+39,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1473,18,Electrodomésticos,90,Normal
+28,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,1887,18,Negocios,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,8648,24,Negocios,100,Normal
+27,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,802,14,Vehículo,90,Normal
+43,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,2899,18,Vehículo,100,Normal
+22,Masculino,Empleado Dependiente,Propia,Poco,Moderado,2039,24,Electrodomésticos,80,Deficiente
+43,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2197,24,Vehículo,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Poco,Poco,1053,15,Electrodomésticos,90,Normal
+26,Masculino,Independiente/Gerencia,Propia,Bastante rico,Sin Cuenta,3235,24,Electrodomésticos,90,Normal
+28,Masculino,Empleado Dependiente,Propia,Bastante rico,Rico,939,12,Vehículo,100,Normal
+20,Femenino,Empleado Dependiente,Propia,Poco,Moderado,1967,24,Electrodomésticos,80,Deficiente
+35,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,7253,33,Vehículo,100,Normal
+42,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,2292,12,Negocios,100,Normal
+40,Masculino,Operativo/Técnico,Alquiler,Bastante rico,Sin Cuenta,1597,10,Vehículo,70,Deficiente
+35,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Poco,1381,24,Vehículo,100,Normal
+35,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,5842,36,Vehículo,100,Normal
+33,Masculino,Operativo/Técnico,Propia,Poco,Poco,2579,12,Vehículo,90,Normal
+23,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Poco,8471,18,Educación,70,Deficiente
+31,Femenino,Independiente/Gerencia,Propia,Bastante rico,Sin Cuenta,2782,21,Vehículo,100,Normal
+33,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,1042,18,Vehículo,100,Normal
+20,Femenino,Empleado Dependiente,Alquiler,Rico,Sin Cuenta,3186,15,Vehículo,70,Deficiente
+30,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,2028,12,Vehículo,100,Normal
+47,Masculino,Operativo/Técnico,Propia,Poco,Moderado,958,12,Vehículo,90,Normal
+34,Masculino,Independiente/Gerencia,Propia,Moderado,Sin Cuenta,1591,21,Muebles/Equip.,100,Normal
+25,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,2762,12,Muebles/Equip.,100,Normal
+21,Masculino,Empleado Dependiente,Alquiler,Poco,Moderado,2779,18,Vehículo,70,Deficiente
+29,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2743,28,Electrodomésticos,90,Normal
+46,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,1149,18,Electrodomésticos,90,Normal
+20,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1313,9,Muebles/Equip.,90,Normal
+55,Femenino,Desempleado/eventual,Cedida/Gratis,Poco,Poco,1190,18,Reparaciones,50,Deficiente
+74,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,3448,5,Negocios,90,Normal
+29,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,11328,24,Otros/Varios,90,Normal
+36,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,1872,6,Muebles/Equip.,80,Deficiente
+33,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2058,24,Reparaciones,100,Normal
+25,Masculino,Empleado Dependiente,Propia,Poco,Poco,2136,9,Muebles/Equip.,100,Normal
+25,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,1484,12,Electrodomésticos,90,Normal
+23,Masculino,Operativo/Técnico,Alquiler,Bastante rico,Sin Cuenta,660,6,Reparaciones,60,Deficiente
+37,Femenino,Empleado Dependiente,Propia,Rico,Sin Cuenta,1287,24,Vehículo,100,Normal
+65,Masculino,Desempleado/eventual,Propia,Poco,Poco,3394,42,Reparaciones,70,Deficiente
+26,Femenino,Desempleado/eventual,Propia,Poco,Rico,609,12,Negocios,70,Deficiente
+39,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,1884,12,Vehículo,100,Normal
+30,Femenino,Empleado Dependiente,Propia,Poco,Poco,1620,12,Muebles/Equip.,100,Normal
+29,Masculino,Empleado Dependiente,Propia,Poco,Moderado,2629,20,Otros/Varios,90,Normal
+41,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,719,12,Educación,90,Normal
+30,Femenino,Independiente/Gerencia,Propia,Poco,Moderado,5096,48,Muebles/Equip.,100,Normal
+41,Femenino,Operativo/Técnico,Alquiler,Sin Cuenta,Sin Cuenta,1244,9,Educación,70,Deficiente
+34,Femenino,Empleado Dependiente,Propia,Poco,Poco,1842,36,Vehículo,100,Normal
+35,Masculino,Empleado Dependiente,Propia,Poco,Moderado,2576,7,Electrodomésticos,90,Normal
+55,Femenino,Independiente/Gerencia,Propia,Sin Cuenta,Rico,1424,12,Muebles/Equip.,100,Normal
+61,Masculino,Empleado Dependiente,Propia,Rico,Moderado,1512,15,Reparaciones,100,Normal
+30,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,11054,36,Vehículo,100,Normal
+29,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,518,6,Electrodomésticos,90,Normal
+34,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2759,12,Muebles/Equip.,100,Normal
+35,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,2670,24,Vehículo,100,Normal
+31,Masculino,Empleado Dependiente,Propia,Poco,Poco,4817,24,Vehículo,100,Normal
+29,Femenino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,2679,24,Vehículo,100,Normal
+36,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,3905,11,Vehículo,80,Deficiente
+35,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,3386,12,Vehículo,80,Deficiente
+27,Femenino,Empleado Dependiente,Propia,Poco,Poco,343,6,Otros/Varios,90,Normal
+32,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,4594,18,Electrodomésticos,90,Normal
+37,Masculino,Empleado Dependiente,Propia,Poco,Poco,3620,36,Muebles/Equip.,100,Normal
+36,Masculino,Empleado Dependiente,Propia,Poco,Poco,1721,15,Vehículo,100,Normal
+34,Femenino,Independiente/Gerencia,Alquiler,Poco,Moderado,3017,12,Muebles/Equip.,80,Deficiente
+38,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,754,12,Educación,100,Normal
+34,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1950,18,Negocios,100,Normal
+63,Masculino,Empleado Dependiente,Propia,Poco,Poco,2924,24,Vehículo,100,Normal
+29,Femenino,Operativo/Técnico,Alquiler,Poco,Poco,1659,24,Electrodomésticos,60,Deficiente
+32,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,7238,48,Electrodomésticos,90,Normal
+26,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2764,33,Negocios,100,Normal
+35,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,4679,24,Vehículo,90,Normal
+22,Masculino,Empleado Dependiente,Alquiler,Moderado,Moderado,3092,24,Electrodomésticos,60,Deficiente
+23,Femenino,Empleado Dependiente,Propia,Poco,Poco,448,6,Educación,90,Normal
+28,Masculino,Operativo/Técnico,Propia,Poco,Poco,654,9,Vehículo,90,Normal
+36,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,1238,6,Educación,100,Normal
+33,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1245,18,Electrodomésticos,90,Normal
+26,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,3114,18,Muebles/Equip.,80,Deficiente
+24,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,2569,39,Vehículo,90,Normal
+25,Masculino,Empleado Dependiente,Propia,Poco,Rico,5152,24,Electrodomésticos,90,Normal
+39,Masculino,Operativo/Técnico,Propia,Moderado,Moderado,1037,12,Negocios,90,Normal
+44,Masculino,Empleado Dependiente,Propia,Poco,Poco,1478,15,Muebles/Equip.,100,Normal
+23,Femenino,Operativo/Técnico,Propia,Poco,Moderado,3573,12,Electrodomésticos,70,Deficiente
+26,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1201,24,Vehículo,100,Normal
+57,Femenino,Empleado Dependiente,Alquiler,Rico,Poco,3622,30,Muebles/Equip.,80,Deficiente
+30,Femenino,Empleado Dependiente,Propia,Rico,Sin Cuenta,960,15,Muebles/Equip.,100,Normal
+44,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,1163,12,Vehículo,100,Normal
+47,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,1209,6,Vehículo,100,Normal
+52,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3077,12,Electrodomésticos,90,Normal
+62,Femenino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,3757,24,Vehículo,80,Deficiente
+35,Masculino,Operativo/Técnico,Alquiler,Moderado,Sin Cuenta,1418,10,Vehículo,70,Deficiente
+26,Masculino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,3518,6,Vehículo,80,Deficiente
+26,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1934,12,Electrodomésticos,90,Normal
+42,Femenino,Independiente/Gerencia,Cedida/Gratis,Poco,Moderado,8318,27,Negocios,80,Deficiente
+27,Femenino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,1237,6,Electrodomésticos,90,Normal
+38,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,368,6,Electrodomésticos,90,Normal
+39,Masculino,Operativo/Técnico,Alquiler,Poco,Poco,2122,12,Vehículo,70,Deficiente
+20,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Poco,2996,24,Muebles/Equip.,90,Normal
+29,Masculino,Independiente/Gerencia,Alquiler,Moderado,Moderado,9034,36,Muebles/Equip.,80,Deficiente
+40,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1585,24,Muebles/Equip.,100,Normal
+32,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1301,18,Electrodomésticos,80,Deficiente
+28,Masculino,Empleado Dependiente,Propia,Moderado,Rico,1323,6,Vehículo,100,Normal
+27,Femenino,Empleado Dependiente,Propia,Poco,Poco,3123,24,Vehículo,100,Normal
+42,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,5493,36,Vehículo,80,Deficiente
+49,Masculino,Empleado Dependiente,Propia,Moderado,Rico,1126,9,Electrodomésticos,90,Normal
+38,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,1216,24,Electrodomésticos,90,Normal
+24,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1207,24,Vehículo,70,Deficiente
+27,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Sin Cuenta,1309,10,Vehículo,90,Normal
+36,Masculino,Empleado Dependiente,Propia,Bastante rico,Rico,2360,15,Vehículo,100,Normal
+34,Masculino,Independiente/Gerencia,Propia,Moderado,Moderado,6850,15,Vehículo,100,Normal
+28,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1413,24,Electrodomésticos,90,Normal
+45,Masculino,Independiente/Gerencia,Propia,Moderado,Sin Cuenta,8588,39,Vehículo,100,Normal
+26,Masculino,Empleado Dependiente,Propia,Poco,Poco,759,12,Vehículo,100,Normal
+32,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Sin Cuenta,4686,36,Vehículo,80,Deficiente
+26,Masculino,Empleado Dependiente,Alquiler,Poco,Rico,2687,15,Negocios,80,Deficiente
+20,Masculino,Empleado Dependiente,Alquiler,Poco,Moderado,585,12,Electrodomésticos,60,Deficiente
+54,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2255,24,Vehículo,100,Normal
+37,Femenino,Empleado Dependiente,Propia,Poco,Poco,609,6,Vehículo,100,Normal
+40,Masculino,Operativo/Técnico,Propia,Poco,Poco,1361,6,Vehículo,90,Normal
+23,Femenino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,7127,36,Muebles/Equip.,70,Deficiente
+43,Masculino,Empleado Dependiente,Propia,Moderado,Poco,1203,6,Vehículo,100,Normal
+36,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Sin Cuenta,700,6,Electrodomésticos,70,Deficiente
+44,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,5507,24,Reparaciones,80,Deficiente
+24,Femenino,Empleado Dependiente,Propia,Poco,Poco,3190,18,Electrodomésticos,80,Deficiente
+53,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,7119,48,Muebles/Equip.,80,Deficiente
+23,Femenino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,3488,24,Vehículo,90,Normal
+26,Femenino,Operativo/Técnico,Propia,Poco,Moderado,1113,18,Electrodomésticos,80,Deficiente
+30,Masculino,Empleado Dependiente,Propia,Poco,Moderado,7966,26,Vehículo,100,Normal
+31,Femenino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,1532,15,Educación,100,Normal
+42,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1503,4,Electrodomésticos,80,Deficiente
+31,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,2302,36,Electrodomésticos,70,Deficiente
+41,Masculino,Operativo/Técnico,Propia,Poco,Poco,662,6,Vehículo,90,Normal
+32,Masculino,Empleado Dependiente,Propia,Poco,Moderado,2273,36,Educación,100,Normal
+28,Femenino,Empleado Dependiente,Alquiler,Moderado,Moderado,2631,15,Vehículo,80,Deficiente
+41,Masculino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,1503,12,Vehículo,80,Deficiente
+26,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,1311,24,Electrodomésticos,90,Normal
+25,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3105,24,Electrodomésticos,90,Normal
+33,Masculino,Empleado Dependiente,Alquiler,Poco,Rico,2319,21,Educación,80,Deficiente
+75,Femenino,Independiente/Gerencia,Propia,Sin Cuenta,Poco,1374,6,Vehículo,100,Normal
+37,Femenino,Empleado Dependiente,Propia,Poco,Moderado,3612,18,Muebles/Equip.,100,Normal
+42,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,7763,48,Vehículo,80,Deficiente
+45,Femenino,Operativo/Técnico,Propia,Poco,Rico,3049,18,Muebles/Equip.,90,Normal
+23,Masculino,Empleado Dependiente,Alquiler,Poco,Moderado,1534,12,Electrodomésticos,60,Deficiente
+60,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,2032,24,Vehículo,80,Deficiente
+31,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Poco,6350,30,Muebles/Equip.,100,Normal
+34,Masculino,Operativo/Técnico,Propia,Poco,Rico,2864,18,Muebles/Equip.,90,Normal
+61,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1255,12,Vehículo,90,Normal
+43,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,1333,24,Vehículo,80,Deficiente
+37,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2022,24,Vehículo,100,Normal
+32,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1552,24,Electrodomésticos,90,Normal
+24,Femenino,Operativo/Técnico,Propia,Poco,Poco,626,12,Electrodomésticos,70,Deficiente
+35,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Sin Cuenta,8858,48,Vehículo,80,Deficiente
+23,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,996,12,Reparaciones,90,Normal
+45,Masculino,Operativo/Técnico,Propia,Bastante rico,Sin Cuenta,1750,6,Electrodomésticos,80,Deficiente
+34,Masculino,Empleado Dependiente,Propia,Poco,Poco,6999,48,Electrodomésticos,90,Normal
+27,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,1995,12,Vehículo,100,Normal
+67,Femenino,Independiente/Gerencia,Propia,Poco,Moderado,1199,9,Educación,100,Normal
+22,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1331,12,Electrodomésticos,80,Deficiente
+28,Femenino,Empleado Dependiente,Propia,Moderado,Moderado,2278,18,Vehículo,100,Normal
+29,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,5003,21,Vehículo,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Poco,Poco,3552,24,Muebles/Equip.,100,Normal
+31,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1928,18,Muebles/Equip.,90,Normal
+49,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Poco,2964,24,Vehículo,80,Deficiente
+24,Masculino,Operativo/Técnico,Alquiler,Poco,Poco,1546,24,Electrodomésticos,50,Deficiente
+29,Femenino,Empleado Dependiente,Propia,Poco,Rico,683,6,Electrodomésticos,90,Normal
+37,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Moderado,12389,36,Vehículo,80,Deficiente
+37,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Moderado,4712,24,Negocios,100,Normal
+23,Femenino,Empleado Dependiente,Alquiler,Moderado,Moderado,1553,24,Electrodomésticos,60,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Poco,Poco,1372,12,Vehículo,100,Normal
+34,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,2578,24,Electrodomésticos,90,Normal
+41,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,3979,48,Electrodomésticos,90,Normal
+31,Femenino,Empleado Dependiente,Propia,Poco,Poco,6758,48,Electrodomésticos,90,Normal
+23,Femenino,Operativo/Técnico,Alquiler,Poco,Poco,3234,24,Muebles/Equip.,60,Deficiente
+38,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,5954,30,Electrodomésticos,90,Normal
+26,Femenino,Independiente/Gerencia,Alquiler,Sin Cuenta,Sin Cuenta,5433,24,Vehículo,80,Deficiente
+22,Femenino,Operativo/Técnico,Propia,Poco,Poco,806,15,Negocios,80,Deficiente
+27,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1082,9,Electrodomésticos,80,Deficiente
+24,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2788,15,Muebles/Equip.,90,Normal
+27,Femenino,Empleado Dependiente,Propia,Poco,Moderado,2930,12,Electrodomésticos,90,Normal
+33,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,1927,24,Educación,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Poco,Moderado,2820,36,Vehículo,100,Normal
+27,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,937,24,Educación,90,Normal
+30,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1056,18,Vehículo,100,Normal
+49,Masculino,Operativo/Técnico,Propia,Poco,Moderado,3124,12,Vehículo,90,Normal
+26,Femenino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,1388,9,Muebles/Equip.,80,Deficiente
+33,Masculino,Operativo/Técnico,Alquiler,Poco,Moderado,2384,36,Reparaciones,70,Deficiente
+52,Femenino,Independiente/Gerencia,Cedida/Gratis,Sin Cuenta,Sin Cuenta,2133,12,Vehículo,80,Deficiente
+20,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,2039,18,Muebles/Equip.,70,Deficiente
+36,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,2799,9,Vehículo,80,Deficiente
+21,Masculino,Operativo/Técnico,Propia,Poco,Poco,1289,12,Muebles/Equip.,80,Deficiente
+47,Masculino,Operativo/Técnico,Propia,Poco,Poco,1217,18,Otros/Varios,80,Deficiente
+60,Masculino,Empleado Dependiente,Propia,Poco,Poco,2246,12,Muebles/Equip.,100,Normal
+58,Femenino,Operativo/Técnico,Propia,Poco,Poco,385,12,Electrodomésticos,80,Deficiente
+42,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Moderado,1965,24,Vehículo,80,Deficiente
+36,Femenino,Operativo/Técnico,Propia,Rico,Sin Cuenta,1572,21,Negocios,90,Normal
+20,Femenino,Operativo/Técnico,Alquiler,Poco,Moderado,2718,24,Vehículo,60,Deficiente
+40,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Poco,1358,24,Otros/Varios,90,Normal
+32,Femenino,Operativo/Técnico,Propia,Moderado,Moderado,931,6,Vehículo,90,Normal
+23,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1442,24,Vehículo,70,Deficiente
+36,Masculino,Operativo/Técnico,Propia,Poco,Moderado,4241,24,Negocios,90,Normal
+31,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2775,18,Vehículo,100,Normal
+32,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,3863,24,Negocios,80,Deficiente
+45,Femenino,Empleado Dependiente,Propia,Poco,Moderado,2329,7,Electrodomésticos,90,Normal
+30,Femenino,Empleado Dependiente,Propia,Poco,Moderado,918,9,Muebles/Equip.,100,Normal
+34,Femenino,Operativo/Técnico,Cedida/Gratis,Poco,Moderado,1837,24,Educación,70,Deficiente
+28,Femenino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,3349,36,Muebles/Equip.,100,Normal
+23,Femenino,Empleado Dependiente,Propia,Poco,Rico,1275,10,Muebles/Equip.,90,Normal
+22,Masculino,Empleado Dependiente,Propia,Bastante rico,Poco,2828,24,Muebles/Equip.,90,Normal
+74,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,4526,24,Negocios,100,Normal
+50,Femenino,Empleado Dependiente,Cedida/Gratis,Moderado,Moderado,2671,36,Electrodomésticos,70,Deficiente
+33,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2051,18,Electrodomésticos,90,Normal
+45,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Sin Cuenta,1300,15,Vehículo,80,Deficiente
+22,Femenino,Empleado Dependiente,Propia,Moderado,Poco,741,12,Otros/Varios,80,Deficiente
+48,Femenino,Operativo/Técnico,Cedida/Gratis,Moderado,Rico,1240,10,Vehículo,70,Deficiente
+29,Femenino,Empleado Dependiente,Propia,Rico,Poco,3357,21,Electrodomésticos,90,Normal
+22,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,3632,24,Vehículo,70,Deficiente
+22,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1808,18,Muebles/Equip.,90,Normal
+48,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Moderado,12204,48,Negocios,100,Normal
+27,Masculino,Independiente/Gerencia,Cedida/Gratis,Sin Cuenta,Moderado,9157,60,Electrodomésticos,70,Deficiente
+37,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,3676,6,Vehículo,80,Deficiente
+21,Femenino,Empleado Dependiente,Alquiler,Moderado,Moderado,3441,30,Muebles/Equip.,70,Deficiente
+49,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,640,12,Vehículo,90,Normal
+27,Masculino,Empleado Dependiente,Propia,Poco,Moderado,3652,21,Negocios,100,Normal
+32,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1530,18,Vehículo,100,Normal
+38,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3914,48,Negocios,100,Normal
+22,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1858,12,Muebles/Equip.,70,Deficiente
+65,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,2600,18,Electrodomésticos,70,Deficiente
+35,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,1979,15,Electrodomésticos,90,Normal
+41,Masculino,Empleado Dependiente,Propia,Poco,Rico,2116,6,Muebles/Equip.,100,Normal
+29,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,1437,9,Vehículo,100,Normal
+36,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,4042,42,Muebles/Equip.,100,Normal
+64,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Sin Cuenta,3832,9,Educación,90,Normal
+28,Femenino,Empleado Dependiente,Propia,Poco,Poco,3660,24,Electrodomésticos,90,Normal
+44,Masculino,Empleado Dependiente,Propia,Poco,Poco,1553,18,Muebles/Equip.,100,Normal
+23,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,1444,15,Electrodomésticos,80,Deficiente
+19,Femenino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,1980,9,Muebles/Equip.,70,Deficiente
+25,Femenino,Operativo/Técnico,Propia,Poco,Moderado,1355,24,Vehículo,90,Normal
+47,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1393,12,Educación,100,Normal
+28,Femenino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,1376,24,Electrodomésticos,90,Normal
+21,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,15653,60,Electrodomésticos,80,Deficiente
+34,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1493,12,Electrodomésticos,90,Normal
+26,Masculino,Empleado Dependiente,Propia,Poco,Poco,4370,42,Electrodomésticos,90,Normal
+27,Femenino,Desempleado/eventual,Propia,Poco,Poco,750,18,Educación,70,Deficiente
+38,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1308,15,Reparaciones,90,Normal
+40,Masculino,Independiente/Gerencia,Propia,Moderado,Sin Cuenta,4623,15,Educación,100,Normal
+33,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1851,24,Electrodomésticos,90,Normal
+32,Masculino,Independiente/Gerencia,Propia,Poco,Poco,1880,18,Electrodomésticos,90,Normal
+27,Masculino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,7980,36,Negocios,80,Deficiente
+32,Masculino,Empleado Dependiente,Propia,Poco,Poco,4583,30,Muebles/Equip.,100,Normal
+26,Femenino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,1386,12,Vehículo,100,Normal
+38,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Rico,947,24,Vehículo,80,Deficiente
+40,Masculino,Operativo/Técnico,Alquiler,Poco,Poco,684,12,Educación,70,Deficiente
+50,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,7476,48,Educación,80,Deficiente
+37,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1922,12,Muebles/Equip.,90,Normal
+45,Masculino,Empleado Dependiente,Propia,Poco,Poco,2303,24,Vehículo,100,Normal
+42,Masculino,Independiente/Gerencia,Propia,Moderado,Moderado,8086,36,Vehículo,100,Normal
+35,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2346,24,Vehículo,100,Normal
+22,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,3973,14,Vehículo,70,Deficiente
+41,Masculino,Operativo/Técnico,Propia,Poco,Moderado,888,12,Vehículo,90,Normal
+37,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,10222,48,Electrodomésticos,90,Normal
+28,Femenino,Empleado Dependiente,Propia,Poco,Moderado,4221,30,Negocios,100,Normal
+41,Masculino,Empleado Dependiente,Propia,Poco,Moderado,6361,18,Muebles/Equip.,100,Normal
+23,Masculino,Empleado Dependiente,Alquiler,Poco,Rico,1297,12,Electrodomésticos,60,Deficiente
+23,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Poco,900,12,Vehículo,90,Normal
+50,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2241,21,Muebles/Equip.,100,Normal
+35,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,1050,6,Muebles/Equip.,100,Normal
+50,Femenino,Operativo/Técnico,Propia,Poco,Rico,1047,6,Educación,90,Normal
+27,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,6314,24,Otros/Varios,90,Normal
+34,Masculino,Empleado Dependiente,Propia,Rico,Moderado,3496,30,Muebles/Equip.,100,Normal
+27,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3609,48,Negocios,100,Normal
+43,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,4843,12,Vehículo,80,Deficiente
+47,Masculino,Empleado Dependiente,Propia,Poco,Rico,3017,30,Electrodomésticos,90,Normal
+27,Masculino,Operativo/Técnico,Propia,Moderado,Sin Cuenta,4139,24,Negocios,90,Normal
+31,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,5742,36,Negocios,100,Normal
+42,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,10366,60,Vehículo,100,Normal
+24,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,2080,6,Vehículo,90,Normal
+41,Masculino,Operativo/Técnico,Propia,Bastante rico,Sin Cuenta,2580,21,Negocios,90,Normal
+26,Femenino,Independiente/Gerencia,Alquiler,Poco,Sin Cuenta,4530,30,Electrodomésticos,70,Deficiente
+33,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,5150,24,Muebles/Equip.,100,Normal
+24,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,5595,72,Electrodomésticos,80,Deficiente
+64,Masculino,Operativo/Técnico,Alquiler,Poco,Poco,2384,24,Electrodomésticos,60,Deficiente
+26,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1453,18,Electrodomésticos,90,Normal
+56,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1538,6,Educación,100,Normal
+37,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Sin Cuenta,2279,12,Electrodomésticos,70,Deficiente
+33,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1478,15,Electrodomésticos,90,Normal
+47,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,5103,24,Electrodomésticos,70,Deficiente
+31,Masculino,Operativo/Técnico,Propia,Moderado,Moderado,9857,36,Negocios,90,Normal
+34,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Sin Cuenta,6527,60,Vehículo,80,Deficiente
+27,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Rico,1347,10,Electrodomésticos,90,Normal
+30,Masculino,Empleado Dependiente,Cedida/Gratis,Moderado,Moderado,2862,36,Vehículo,80,Deficiente
+35,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,2753,9,Electrodomésticos,90,Normal
+31,Masculino,Empleado Dependiente,Propia,Rico,Poco,3651,12,Vehículo,100,Normal
+25,Masculino,Empleado Dependiente,Propia,Poco,Poco,975,15,Muebles/Equip.,100,Normal
+25,Femenino,Operativo/Técnico,Propia,Moderado,Moderado,2631,15,Reparaciones,90,Normal
+29,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,2896,24,Electrodomésticos,90,Normal
+44,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Poco,4716,6,Vehículo,90,Normal
+28,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2284,24,Electrodomésticos,90,Normal
+50,Masculino,Empleado Dependiente,Alquiler,Bastante rico,Sin Cuenta,1236,6,Vehículo,80,Deficiente
+29,Masculino,Empleado Dependiente,Propia,Poco,Moderado,1103,12,Electrodomésticos,90,Normal
+38,Femenino,Desempleado/eventual,Propia,Poco,Sin Cuenta,926,12,Vehículo,70,Deficiente
+24,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1800,18,Electrodomésticos,80,Deficiente
+40,Masculino,Independiente/Gerencia,Alquiler,Poco,Rico,1905,15,Educación,80,Deficiente
+29,Femenino,Operativo/Técnico,Alquiler,Bastante rico,Sin Cuenta,1123,12,Muebles/Equip.,70,Deficiente
+46,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,6331,48,Vehículo,80,Deficiente
+47,Femenino,Empleado Dependiente,Cedida/Gratis,Moderado,Rico,1377,24,Electrodomésticos,70,Deficiente
+41,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,2503,30,Negocios,100,Normal
+32,Femenino,Empleado Dependiente,Propia,Poco,Moderado,2528,27,Negocios,100,Normal
+35,Femenino,Empleado Dependiente,Cedida/Gratis,Bastante rico,Sin Cuenta,5324,15,Vehículo,80,Deficiente
+24,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,6560,48,Vehículo,90,Normal
+25,Femenino,Empleado Dependiente,Alquiler,Poco,Moderado,2969,12,Muebles/Equip.,80,Deficiente
+25,Femenino,Empleado Dependiente,Propia,Poco,Moderado,1206,9,Electrodomésticos,90,Normal
+37,Masculino,Operativo/Técnico,Propia,Poco,Moderado,2118,9,Electrodomésticos,80,Deficiente
+32,Masculino,Independiente/Gerencia,Propia,Bastante rico,Sin Cuenta,629,18,Electrodomésticos,90,Normal
+35,Femenino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,1198,6,Educación,80,Deficiente
+46,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,2476,21,Vehículo,100,Normal
+25,Masculino,Operativo/Técnico,Propia,Poco,Poco,1138,9,Electrodomésticos,80,Deficiente
+27,Masculino,Independiente/Gerencia,Propia,Poco,Moderado,14027,60,Vehículo,100,Normal
+63,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,7596,30,Vehículo,100,Normal
+40,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3077,30,Electrodomésticos,90,Normal
+32,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Sin Cuenta,1505,18,Electrodomésticos,70,Deficiente
+31,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Rico,3148,24,Electrodomésticos,90,Normal
+31,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,6148,20,Vehículo,100,Normal
+34,Masculino,Independiente/Gerencia,Propia,Poco,Rico,1337,9,Electrodomésticos,90,Normal
+24,Femenino,Empleado Dependiente,Alquiler,Rico,Moderado,433,6,Educación,70,Deficiente
+24,Femenino,Operativo/Técnico,Propia,Poco,Poco,1228,12,Vehículo,80,Deficiente
+66,Femenino,Operativo/Técnico,Propia,Bastante rico,Moderado,790,9,Electrodomésticos,80,Deficiente
+21,Femenino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,2570,27,Vehículo,70,Deficiente
+41,Femenino,Operativo/Técnico,Propia,Rico,Sin Cuenta,250,6,Vehículo,90,Normal
+47,Masculino,Operativo/Técnico,Propia,Bastante rico,Sin Cuenta,1316,15,Electrodomésticos,80,Deficiente
+25,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1882,18,Electrodomésticos,70,Deficiente
+59,Femenino,Empleado Dependiente,Alquiler,Poco,Moderado,6416,48,Negocios,80,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Rico,Rico,1275,24,Negocios,100,Normal
+33,Masculino,Empleado Dependiente,Propia,Poco,Moderado,6403,24,Electrodomésticos,90,Normal
+21,Masculino,Operativo/Técnico,Alquiler,Poco,Poco,1987,24,Electrodomésticos,50,Deficiente
+44,Femenino,Operativo/Técnico,Propia,Poco,Moderado,760,8,Electrodomésticos,80,Deficiente
+28,Femenino,Empleado Dependiente,Alquiler,Rico,Sin Cuenta,2603,24,Vehículo,80,Deficiente
+37,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3380,4,Vehículo,100,Normal
+29,Femenino,Desempleado/eventual,Propia,Sin Cuenta,Moderado,3990,36,Otros/Varios,60,Deficiente
+23,Femenino,Independiente/Gerencia,Alquiler,Poco,Moderado,11560,24,Vehículo,70,Deficiente
+35,Masculino,Operativo/Técnico,Propia,Moderado,Poco,4380,18,Vehículo,90,Normal
+45,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,6761,6,Vehículo,100,Normal
+26,Femenino,Operativo/Técnico,Alquiler,Moderado,Moderado,4280,30,Negocios,70,Deficiente
+32,Masculino,Empleado Dependiente,Propia,Moderado,Poco,2325,24,Vehículo,100,Normal
+23,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1048,10,Electrodomésticos,70,Deficiente
+41,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3160,21,Electrodomésticos,90,Normal
+22,Masculino,Empleado Dependiente,Propia,Bastante rico,Poco,2483,24,Muebles/Equip.,90,Normal
+30,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Poco,14179,39,Muebles/Equip.,100,Normal
+28,Masculino,Operativo/Técnico,Propia,Poco,Poco,1797,13,Negocios,90,Normal
+23,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,2511,15,Vehículo,70,Deficiente
+37,Femenino,Operativo/Técnico,Propia,Poco,Poco,1274,12,Vehículo,90,Normal
+26,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,5248,21,Vehículo,100,Normal
+33,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3029,15,Vehículo,100,Normal
+49,Femenino,Empleado Dependiente,Propia,Poco,Poco,428,6,Muebles/Equip.,100,Normal
+23,Femenino,Operativo/Técnico,Propia,Poco,Poco,976,18,Vehículo,80,Deficiente
+23,Femenino,Operativo/Técnico,Alquiler,Moderado,Moderado,841,12,Negocios,60,Deficiente
+25,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,5771,30,Electrodomésticos,90,Normal
+55,Masculino,Empleado Dependiente,Cedida/Gratis,Rico,Sin Cuenta,1555,12,Reparaciones,80,Deficiente
+32,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Poco,1285,24,Vehículo,80,Deficiente
+74,Masculino,Desempleado/eventual,Propia,Poco,Rico,1299,6,Vehículo,70,Deficiente
+39,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Rico,1271,15,Electrodomésticos,70,Deficiente
+31,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1393,24,Vehículo,100,Normal
+35,Masculino,Empleado Dependiente,Propia,Poco,Poco,691,12,Vehículo,100,Normal
+59,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,5045,15,Vehículo,100,Normal
+24,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,2124,18,Muebles/Equip.,70,Deficiente
+24,Masculino,Operativo/Técnico,Propia,Poco,Poco,2214,12,Electrodomésticos,70,Deficiente
+30,Masculino,Independiente/Gerencia,Cedida/Gratis,Sin Cuenta,Sin Cuenta,12680,21,Vehículo,80,Deficiente
+27,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,2463,24,Vehículo,100,Normal
+40,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1155,12,Electrodomésticos,80,Deficiente
+31,Masculino,Operativo/Técnico,Propia,Poco,Poco,3108,30,Muebles/Equip.,90,Normal
+31,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,2901,10,Vehículo,80,Deficiente
+28,Masculino,Empleado Dependiente,Alquiler,Poco,Moderado,3617,12,Muebles/Equip.,80,Deficiente
+63,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1655,12,Electrodomésticos,80,Deficiente
+26,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Poco,2812,24,Vehículo,80,Deficiente
+25,Femenino,Independiente/Gerencia,Propia,Poco,Poco,8065,36,Educación,100,Normal
+36,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,3275,21,Vehículo,100,Normal
+52,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,2223,24,Electrodomésticos,90,Normal
+66,Masculino,Desempleado/eventual,Cedida/Gratis,Bastante rico,Rico,1480,12,Vehículo,50,Deficiente
+25,Femenino,Empleado Dependiente,Alquiler,Sin Cuenta,Poco,1371,24,Vehículo,80,Deficiente
+37,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3535,36,Vehículo,100,Normal
+25,Femenino,Empleado Dependiente,Propia,Poco,Poco,3509,18,Electrodomésticos,90,Normal
+38,Masculino,Independiente/Gerencia,Propia,Rico,Sin Cuenta,5711,36,Vehículo,100,Normal
+67,Femenino,Empleado Dependiente,Propia,Poco,Moderado,3872,18,Reparaciones,100,Normal
+25,Masculino,Empleado Dependiente,Propia,Poco,Moderado,4933,39,Electrodomésticos,90,Normal
+60,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,1940,24,Vehículo,100,Normal
+31,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1410,12,Educación,90,Normal
+23,Femenino,Operativo/Técnico,Propia,Moderado,Moderado,836,12,Vehículo,80,Deficiente
+60,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Moderado,6468,20,Vehículo,100,Normal
+35,Masculino,Operativo/Técnico,Propia,Rico,Moderado,1941,18,Negocios,90,Normal
+40,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,2675,22,Electrodomésticos,90,Normal
+38,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2751,48,Vehículo,100,Normal
+50,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Moderado,6224,48,Educación,80,Deficiente
+27,Masculino,Empleado Dependiente,Propia,Poco,Poco,5998,40,Educación,100,Normal
+39,Femenino,Empleado Dependiente,Propia,Poco,Moderado,1188,21,Negocios,100,Normal
+41,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,6313,24,Vehículo,100,Normal
+27,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,1221,6,Muebles/Equip.,100,Normal
+51,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Rico,2892,24,Muebles/Equip.,80,Deficiente
+32,Masculino,Empleado Dependiente,Alquiler,Bastante rico,Sin Cuenta,3062,24,Muebles/Equip.,80,Deficiente
+22,Femenino,Empleado Dependiente,Alquiler,Moderado,Sin Cuenta,2301,9,Muebles/Equip.,70,Deficiente
+51,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Poco,7511,18,Vehículo,80,Deficiente
+22,Femenino,Operativo/Técnico,Alquiler,Poco,Sin Cuenta,1258,12,Muebles/Equip.,60,Deficiente
+54,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,717,24,Vehículo,100,Normal
+35,Masculino,Desempleado/eventual,Propia,Sin Cuenta,Moderado,1549,9,Vehículo,70,Deficiente
+54,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,1597,24,Educación,80,Deficiente
+48,Femenino,Operativo/Técnico,Alquiler,Poco,Moderado,1795,18,Electrodomésticos,60,Deficiente
+24,Femenino,Empleado Dependiente,Propia,Poco,Poco,4272,20,Muebles/Equip.,90,Normal
+35,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,976,12,Electrodomésticos,90,Normal
+24,Femenino,Desempleado/eventual,Alquiler,Sin Cuenta,Moderado,7472,12,Vehículo,40,Deficiente
+24,Masculino,Empleado Dependiente,Propia,Poco,Poco,9271,36,Vehículo,90,Normal
+26,Masculino,Operativo/Técnico,Propia,Poco,Moderado,590,6,Electrodomésticos,80,Deficiente
+65,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,930,12,Electrodomésticos,90,Normal
+55,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Moderado,9283,42,Vehículo,80,Deficiente
+26,Femenino,Desempleado/eventual,Alquiler,Poco,Moderado,1778,15,Vehículo,50,Deficiente
+26,Masculino,Empleado Dependiente,Propia,Poco,Moderado,907,8,Negocios,100,Normal
+28,Masculino,Operativo/Técnico,Propia,Poco,Moderado,484,6,Electrodomésticos,80,Deficiente
+24,Masculino,Empleado Dependiente,Propia,Poco,Poco,9629,36,Vehículo,90,Normal
+54,Masculino,Empleado Dependiente,Propia,Poco,Poco,3051,48,Otros/Varios,90,Normal
+46,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,3931,48,Vehículo,80,Deficiente
+54,Femenino,Empleado Dependiente,Alquiler,Poco,Moderado,7432,36,Vehículo,80,Deficiente
+62,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,1338,6,Otros/Varios,90,Normal
+24,Femenino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,1554,6,Electrodomésticos,60,Deficiente
+43,Masculino,Independiente/Gerencia,Propia,Poco,Poco,15857,36,Otros/Varios,90,Normal
+26,Masculino,Empleado Dependiente,Propia,Poco,Poco,1345,18,Electrodomésticos,90,Normal
+27,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1101,12,Vehículo,100,Normal
+24,Masculino,Empleado Dependiente,Propia,Poco,Rico,3016,12,Electrodomésticos,80,Deficiente
+41,Masculino,Empleado Dependiente,Propia,Poco,Poco,2712,36,Muebles/Equip.,100,Normal
+47,Masculino,Operativo/Técnico,Propia,Poco,Poco,731,8,Vehículo,90,Normal
+35,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,3780,18,Muebles/Equip.,100,Normal
+30,Masculino,Empleado Dependiente,Propia,Poco,Poco,1602,21,Vehículo,100,Normal
+33,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,3966,18,Vehículo,80,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,4165,18,Negocios,100,Normal
+47,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Poco,8335,36,Vehículo,80,Deficiente
+38,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Moderado,6681,48,Negocios,80,Deficiente
+44,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,2375,24,Negocios,100,Normal
+23,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1216,18,Vehículo,70,Deficiente
+29,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,11816,45,Negocios,80,Deficiente
+42,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,5084,24,Electrodomésticos,90,Normal
+25,Femenino,Operativo/Técnico,Propia,Poco,Rico,2327,15,Electrodomésticos,80,Deficiente
+48,Masculino,Empleado Dependiente,Propia,Poco,Poco,1082,12,Vehículo,100,Normal
+21,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,886,12,Electrodomésticos,80,Deficiente
+23,Femenino,Operativo/Técnico,Alquiler,Poco,Sin Cuenta,601,4,Muebles/Equip.,60,Deficiente
+63,Masculino,Empleado Dependiente,Propia,Poco,Poco,2957,24,Vehículo,100,Normal
+46,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2611,24,Electrodomésticos,90,Normal
+29,Masculino,Empleado Dependiente,Propia,Poco,Poco,5179,36,Muebles/Equip.,100,Normal
+28,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,2993,21,Vehículo,90,Normal
+23,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1943,18,Reparaciones,90,Normal
+50,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1559,24,Negocios,100,Normal
+47,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3422,18,Muebles/Equip.,100,Normal
+35,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,3976,21,Muebles/Equip.,100,Normal
+68,Masculino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,6761,18,Vehículo,80,Deficiente
+28,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1249,24,Vehículo,100,Normal
+59,Masculino,Empleado Dependiente,Propia,Poco,Poco,1364,9,Electrodomésticos,90,Normal
+57,Masculino,Operativo/Técnico,Propia,Poco,Poco,709,12,Electrodomésticos,80,Deficiente
+33,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,2235,20,Vehículo,80,Deficiente
+43,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,4042,24,Vehículo,100,Normal
+35,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,1471,15,Electrodomésticos,70,Deficiente
+32,Masculino,Operativo/Técnico,Cedida/Gratis,Poco,Poco,1442,18,Vehículo,70,Deficiente
+45,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,10875,36,Vehículo,100,Normal
+33,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,1474,24,Vehículo,100,Normal
+40,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,894,10,Educación,100,Normal
+28,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Sin Cuenta,3343,15,Muebles/Equip.,80,Deficiente
+29,Femenino,Empleado Dependiente,Propia,Poco,Poco,3959,15,Vehículo,100,Normal
+26,Masculino,Empleado Dependiente,Alquiler,Moderado,Sin Cuenta,3577,9,Vehículo,80,Deficiente
+27,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,5804,24,Vehículo,100,Normal
+28,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2169,18,Negocios,100,Normal
+35,Femenino,Empleado Dependiente,Propia,Poco,Poco,2439,24,Electrodomésticos,90,Normal
+32,Masculino,Operativo/Técnico,Propia,Rico,Sin Cuenta,4526,27,Muebles/Equip.,90,Normal
+25,Masculino,Operativo/Técnico,Alquiler,Poco,Sin Cuenta,2210,10,Muebles/Equip.,70,Deficiente
+20,Femenino,Empleado Dependiente,Alquiler,Bastante rico,Sin Cuenta,2221,15,Muebles/Equip.,70,Deficiente
+27,Femenino,Empleado Dependiente,Propia,Poco,Poco,2389,18,Electrodomésticos,90,Normal
+42,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3331,12,Muebles/Equip.,100,Normal
+37,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,7409,36,Negocios,100,Normal
+24,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,652,12,Muebles/Equip.,70,Deficiente
+40,Femenino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,7678,36,Muebles/Equip.,100,Normal
+46,Masculino,Empleado Dependiente,Propia,Poco,Rico,1343,6,Vehículo,100,Normal
+26,Masculino,Empleado Dependiente,Propia,Moderado,Poco,1382,24,Negocios,100,Normal
+24,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,874,15,Otros/Varios,80,Deficiente
+29,Masculino,Operativo/Técnico,Propia,Poco,Poco,3590,12,Muebles/Equip.,90,Normal
+40,Femenino,Empleado Dependiente,Propia,Rico,Moderado,1322,11,Vehículo,100,Normal
+36,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,1940,18,Electrodomésticos,70,Deficiente
+28,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,3595,36,Electrodomésticos,90,Normal
+27,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,1422,9,Vehículo,80,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,6742,30,Electrodomésticos,90,Normal
+38,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,7814,24,Vehículo,100,Normal
+48,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Sin Cuenta,9277,24,Vehículo,80,Deficiente
+36,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,2181,30,Vehículo,100,Normal
+65,Femenino,Desempleado/eventual,Propia,Poco,Sin Cuenta,1098,18,Electrodomésticos,60,Deficiente
+43,Masculino,Empleado Dependiente,Propia,Poco,Moderado,4057,24,Muebles/Equip.,100,Normal
+53,Femenino,Empleado Dependiente,Propia,Poco,Poco,795,12,Educación,100,Normal
+34,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,2825,24,Negocios,100,Normal
+23,Masculino,Empleado Dependiente,Propia,Poco,Moderado,15672,48,Negocios,90,Normal
+34,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,6614,36,Vehículo,100,Normal
+40,Masculino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,7824,28,Vehículo,80,Deficiente
+43,Masculino,Independiente/Gerencia,Propia,Poco,Poco,2442,27,Negocios,100,Normal
+46,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1829,15,Electrodomésticos,90,Normal
+38,Masculino,Operativo/Técnico,Propia,Poco,Poco,2171,12,Vehículo,90,Normal
+34,Masculino,Empleado Dependiente,Propia,Poco,Moderado,5800,36,Vehículo,100,Normal
+29,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,1169,18,Electrodomésticos,90,Normal
+31,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,8947,36,Vehículo,100,Normal
+28,Femenino,Independiente/Gerencia,Alquiler,Poco,Poco,2606,21,Electrodomésticos,70,Deficiente
+35,Femenino,Empleado Dependiente,Propia,Rico,Sin Cuenta,1592,12,Muebles/Equip.,100,Normal
+33,Femenino,Operativo/Técnico,Alquiler,Sin Cuenta,Sin Cuenta,2186,15,Muebles/Equip.,70,Deficiente
+42,Masculino,Empleado Dependiente,Propia,Poco,Poco,4153,18,Muebles/Equip.,100,Normal
+43,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,2625,16,Vehículo,80,Deficiente
+44,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3485,20,Vehículo,100,Normal
+42,Masculino,Empleado Dependiente,Cedida/Gratis,Sin Cuenta,Sin Cuenta,10477,36,Vehículo,80,Deficiente
+40,Masculino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,1386,15,Electrodomésticos,70,Deficiente
+36,Masculino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,1278,24,Electrodomésticos,90,Normal
+20,Masculino,Independiente/Gerencia,Alquiler,Poco,Poco,1107,12,Electrodomésticos,60,Deficiente
+24,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Poco,3763,21,Vehículo,80,Deficiente
+27,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,3711,36,Educación,100,Normal
+46,Femenino,Operativo/Técnico,Propia,Poco,Sin Cuenta,3594,15,Vehículo,90,Normal
+33,Femenino,Operativo/Técnico,Propia,Sin Cuenta,Moderado,3195,9,Vehículo,90,Normal
+34,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,4454,36,Electrodomésticos,90,Normal
+25,Femenino,Operativo/Técnico,Propia,Poco,Moderado,4736,24,Muebles/Equip.,90,Normal
+25,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,2991,30,Electrodomésticos,90,Normal
+28,Masculino,Empleado Dependiente,Propia,Rico,Sin Cuenta,2142,11,Negocios,100,Normal
+31,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,3161,24,Negocios,80,Deficiente
+32,Femenino,Independiente/Gerencia,Propia,Poco,Moderado,18424,48,Otros/Varios,90,Normal
+32,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,2848,10,Vehículo,100,Normal
+68,Masculino,Independiente/Gerencia,Propia,Poco,Poco,14896,6,Vehículo,100,Normal
+33,Masculino,Empleado Dependiente,Propia,Moderado,Poco,2359,24,Muebles/Equip.,100,Normal
+39,Masculino,Independiente/Gerencia,Alquiler,Poco,Poco,3345,24,Muebles/Equip.,80,Deficiente
+28,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1817,18,Muebles/Equip.,100,Normal
+37,Masculino,Independiente/Gerencia,Propia,Bastante rico,Sin Cuenta,12749,48,Electrodomésticos,90,Normal
+22,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1366,9,Electrodomésticos,60,Deficiente
+30,Masculino,Empleado Dependiente,Alquiler,Poco,Moderado,2002,12,Vehículo,80,Deficiente
+55,Masculino,Empleado Dependiente,Propia,Poco,Poco,6872,24,Muebles/Equip.,100,Normal
+46,Masculino,Empleado Dependiente,Propia,Poco,Poco,697,12,Vehículo,100,Normal
+21,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1049,18,Muebles/Equip.,70,Deficiente
+39,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,10297,48,Vehículo,80,Deficiente
+58,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,1867,30,Electrodomésticos,90,Normal
+43,Masculino,Operativo/Técnico,Propia,Poco,Poco,1344,12,Vehículo,90,Normal
+24,Masculino,Operativo/Técnico,Propia,Poco,Poco,1747,24,Muebles/Equip.,80,Deficiente
+22,Femenino,Empleado Dependiente,Propia,Poco,Moderado,1670,9,Electrodomésticos,80,Deficiente
+30,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,1224,9,Vehículo,100,Normal
+42,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,522,12,Electrodomésticos,90,Normal
+23,Femenino,Empleado Dependiente,Propia,Poco,Poco,1498,12,Electrodomésticos,80,Deficiente
+30,Masculino,Independiente/Gerencia,Propia,Moderado,Moderado,1919,30,Electrodomésticos,90,Normal
+28,Femenino,Operativo/Técnico,Propia,Poco,Rico,745,9,Electrodomésticos,80,Deficiente
+30,Masculino,Independiente/Gerencia,Alquiler,Poco,Moderado,2063,6,Electrodomésticos,70,Deficiente
+42,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Moderado,6288,60,Educación,80,Deficiente
+46,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,6842,24,Vehículo,100,Normal
+45,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,3527,12,Vehículo,100,Normal
+31,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1546,10,Vehículo,90,Normal
+31,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,929,24,Muebles/Equip.,100,Normal
+42,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1455,4,Vehículo,90,Normal
+46,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1845,15,Muebles/Equip.,80,Deficiente
+30,Femenino,Empleado Dependiente,Propia,Bastante rico,Moderado,8358,48,Vehículo,100,Normal
+30,Masculino,Empleado Dependiente,Cedida/Gratis,Bastante rico,Poco,3349,24,Muebles/Equip.,80,Deficiente
+38,Masculino,Independiente/Gerencia,Propia,Sin Cuenta,Sin Cuenta,2859,12,Vehículo,100,Normal
+43,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1533,18,Muebles/Equip.,90,Normal
+31,Masculino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,3621,24,Electrodomésticos,90,Normal
+40,Masculino,Desempleado/eventual,Propia,Poco,Moderado,3590,18,Negocios,70,Deficiente
+24,Masculino,Empleado Dependiente,Propia,Poco,Poco,2145,36,Negocios,90,Normal
+28,Femenino,Empleado Dependiente,Alquiler,Bastante rico,Moderado,4113,24,Vehículo,80,Deficiente
+26,Femenino,Independiente/Gerencia,Propia,Poco,Sin Cuenta,10974,36,Muebles/Equip.,100,Normal
+29,Femenino,Empleado Dependiente,Propia,Poco,Poco,1893,12,Vehículo,100,Normal
+57,Femenino,Independiente/Gerencia,Alquiler,Rico,Poco,1231,24,Electrodomésticos,70,Deficiente
+49,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Rico,3656,30,Electrodomésticos,80,Deficiente
+37,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1154,9,Electrodomésticos,80,Deficiente
+45,Masculino,Operativo/Técnico,Propia,Poco,Poco,4006,28,Vehículo,90,Normal
+30,Masculino,Empleado Dependiente,Cedida/Gratis,Moderado,Moderado,3069,24,Muebles/Equip.,80,Deficiente
+30,Masculino,Empleado Dependiente,Alquiler,Poco,Sin Cuenta,1740,6,Electrodomésticos,70,Deficiente
+47,Masculino,Empleado Dependiente,Propia,Poco,Moderado,2353,21,Vehículo,100,Normal
+29,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,3556,15,Vehículo,100,Normal
+35,Masculino,Empleado Dependiente,Propia,Bastante rico,Sin Cuenta,2397,24,Electrodomésticos,90,Normal
+22,Masculino,Operativo/Técnico,Propia,Poco,Moderado,454,6,Reparaciones,80,Deficiente
+26,Femenino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,1715,30,Electrodomésticos,90,Normal
+23,Masculino,Operativo/Técnico,Propia,Bastante rico,Moderado,2520,27,Electrodomésticos,70,Deficiente
+54,Femenino,Independiente/Gerencia,Alquiler,Poco,Sin Cuenta,3568,15,Electrodomésticos,70,Deficiente
+29,Masculino,Empleado Dependiente,Alquiler,Sin Cuenta,Sin Cuenta,7166,42,Electrodomésticos,70,Deficiente
+40,Masculino,Operativo/Técnico,Propia,Poco,Poco,3939,11,Vehículo,90,Normal
+22,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,1514,15,Reparaciones,90,Normal
+43,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,7393,24,Vehículo,90,Normal
+29,Femenino,Desempleado/eventual,Alquiler,Poco,Poco,1193,24,Vehículo,50,Deficiente
+36,Masculino,Empleado Dependiente,Alquiler,Poco,Poco,7297,60,Negocios,80,Deficiente
+33,Femenino,Empleado Dependiente,Propia,Poco,Sin Cuenta,2831,30,Electrodomésticos,90,Normal
+57,Femenino,Operativo/Técnico,Propia,Bastante rico,Rico,1258,24,Electrodomésticos,80,Deficiente
+64,Femenino,Empleado Dependiente,Propia,Poco,Moderado,753,6,Electrodomésticos,90,Normal
+42,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Moderado,2427,18,Negocios,100,Normal
+47,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,2538,24,Vehículo,90,Normal
+25,Masculino,Empleado Dependiente,Alquiler,Moderado,Moderado,1264,15,Vehículo,80,Deficiente
+49,Masculino,Empleado Dependiente,Propia,Poco,Moderado,8386,30,Muebles/Equip.,100,Normal
+33,Masculino,Independiente/Gerencia,Alquiler,Poco,Sin Cuenta,4844,48,Negocios,80,Deficiente
+28,Femenino,Independiente/Gerencia,Propia,Moderado,Rico,2923,21,Vehículo,100,Normal
+26,Masculino,Empleado Dependiente,Propia,Poco,Poco,8229,36,Vehículo,100,Normal
+30,Masculino,Operativo/Técnico,Propia,Poco,Sin Cuenta,2028,24,Muebles/Equip.,90,Normal
+25,Femenino,Empleado Dependiente,Alquiler,Poco,Poco,1433,15,Muebles/Equip.,80,Deficiente
+33,Masculino,Empleado Dependiente,Propia,Poco,Rico,6289,42,Negocios,100,Normal
+64,Femenino,Empleado Dependiente,Propia,Moderado,Sin Cuenta,1409,13,Electrodomésticos,90,Normal
+29,Masculino,Independiente/Gerencia,Cedida/Gratis,Poco,Poco,6579,24,Vehículo,80,Deficiente
+48,Masculino,Operativo/Técnico,Propia,Poco,Moderado,1743,24,Electrodomésticos,80,Deficiente
+37,Masculino,Operativo/Técnico,Propia,Sin Cuenta,Sin Cuenta,3565,12,Educación,90,Normal
+34,Masculino,Operativo/Técnico,Propia,Moderado,Sin Cuenta,1569,15,Electrodomésticos,80,Deficiente
+23,Masculino,Operativo/Técnico,Alquiler,Sin Cuenta,Poco,1936,18,Electrodomésticos,50,Deficiente
+30,Masculino,Independiente/Gerencia,Propia,Poco,Poco,3959,36,Muebles/Equip.,100,Normal
+50,Masculino,Empleado Dependiente,Propia,Sin Cuenta,Sin Cuenta,2390,12,Vehículo,100,Normal
+31,Femenino,Operativo/Técnico,Propia,Poco,Sin Cuenta,1736,12,Muebles/Equip.,90,Normal
+40,Masculino,Independiente/Gerencia,Propia,Poco,Poco,3857,30,Vehículo,100,Normal
+38,Masculino,Empleado Dependiente,Propia,Poco,Sin Cuenta,804,12,Electrodomésticos,90,Normal
+23,Masculino,Empleado Dependiente,Cedida/Gratis,Poco,Poco,1845,45,Electrodomésticos,60,Deficiente
+27,Masculino,Empleado Dependiente,Propia,Moderado,Moderado,4576,45,Vehículo,100,Normal
